@@ -1,0 +1,1 @@
+audio_play_sound(logo_snd, 1, false);
