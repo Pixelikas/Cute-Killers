@@ -1,0 +1,102 @@
+Converting GML script: ${project_dir}\scripts\drawPlayer\drawPlayer.gml
+Converted description /// @description  Draw player
+
+Converting GML script: ${project_dir}\scripts\drawHeadShotAnimation\drawHeadShotAnimation.gml
+Converted description /// @description  Draw Headshot animation
+
+Converting GML script: ${project_dir}\scripts\drawBodyShotAnimation\drawBodyShotAnimation.gml
+Converted description /// @description  Draw Bodyshot animation
+
+Converting GML script: ${project_dir}\scripts\drawKatanaAnimation\drawKatanaAnimation.gml
+Converted description /// @description  Draw Bodyshot animation
+
+Converting GML script: ${project_dir}\scripts\drawHead\drawHead.gml
+Converted description /// @description  Draw head - Not necessary, only for debugging purposes as its possible aswell 
+
+Converting GML script: ${project_dir}\scripts\moveBullet\moveBullet.gml
+Converted description /// @description BUG: sometimes "inst" used inside the functions doesnt find the instance, as it
+
+Converting GML script: ${project_dir}\scripts\death_scr\death_scr.gml
+Converted description /// @description death_scr(value)/// @function death_scr
+/// @param value
+
+Font fnt has been converted to font family Arial (Regular) - Font has been regenerated, small inconsistencies may occur
+Font countdown_fnt has been converted to font family Arial (Regular) - Font has been regenerated, small inconsistencies may occur
+Font timer_fnt has been converted to font family Arial (Regular) - Font has been regenerated, small inconsistencies may occur
+Font score_fnt has been converted to font family Arial (Regular) - Font has been regenerated, small inconsistencies may occur
+!!! Font arcade_classic_fnt uses a font (ArcadeClassic) not installed on this system - Font has NOT been regenerated
+!!! Font countdown_arcade_classic_fnt uses a font (ArcadeClassic) not installed on this system - Font has NOT been regenerated
+!!! Font timer_arcade_classic_fnt uses a font (ArcadeClassic) not installed on this system - Font has NOT been regenerated
+!!! Font score_arcade_classic_fnt uses a font (ArcadeClassic) not installed on this system - Font has NOT been regenerated
+Converting GML script: ${project_dir}\objects\player1_bullet_obj\Create_0.gml
+Converted description /// @description  Initialize speed and direction
+
+Converting GML script: ${project_dir}\objects\player2_bullet_obj\Create_0.gml
+Converted description /// @description  Initialize speed and direction
+
+Converting GML script: ${project_dir}\objects\player3_bullet_obj\Create_0.gml
+Converted description /// @description  Initialize speed and direction
+
+Converting GML script: ${project_dir}\objects\player4_bullet_obj\Create_0.gml
+Converted description /// @description  Initialize speed and direction
+
+Converting GML script: ${project_dir}\objects\players_parent\Create_0.gml
+Converted description /// @description  Initialize variables
+
+Converting GML script: ${project_dir}\objects\players_parent\Step_0.gml
+Converted description /// @description  Player Controller
+
+Converting GML script: ${project_dir}\objects\players_parent\Draw_0.gml
+Converted description /// @description  Draw player
+
+Converting GML script: ${project_dir}\objects\players_heads_parent\Create_0.gml
+Converted description /// @description  Initialize variables
+
+Converting GML script: ${project_dir}\objects\players_heads_parent\Step_0.gml
+Converted description /// @description  Head Controller
+
+Converting GML script: ${project_dir}\objects\players_heads_parent\Draw_0.gml
+Converted description /// @description  Draw head
+
+Converting GML script: ${project_dir}\objects\bullets_parent\Create_0.gml
+Converted description /// @description  Initialize speed and direction
+
+Converting GML script: ${project_dir}\objects\bullets_parent\Step_0.gml
+Converted description /// @description  Move the bullet
+
+Converting GML script: ${project_dir}\objects\player_teste\Create_0.gml
+Converted description /// @description  Initialize variables
+
+Converting GML script: ${project_dir}\objects\player_teste\Mouse_53.gml
+Converted description /// @description  Create the bullet
+
+Converting GML script: ${project_dir}\objects\player_teste\Draw_0.gml
+Converted description /// @description  Draw player and gun
+
+Converting GML script: ${project_dir}\objects\player_teste_bullet_obj\Create_0.gml
+Converted description /// @description  Initialize speed and direction
+
+Converting GML script: ${project_dir}\objects\player2_teste\Create_0.gml
+Converted description /// @description  Initialize variables
+
+Converting GML script: ${project_dir}\objects\player2_teste\Mouse_53.gml
+Converted description /// @description  Create the bullet
+
+Converting GML script: ${project_dir}\objects\player2_teste\Draw_0.gml
+Converted description /// @description  Draw player and gun
+
+Converting GML script: ${project_dir}\objects\player2_teste_bullet_obj\Create_0.gml
+Converted description /// @description  Initialize speed and direction
+
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'gameplay_snd' - setting to default audio group
+Missing audiogroup for sound: 'menu_snd' - setting to default audio group
+Missing audiogroup for sound: 'logo_snd' - setting to default audio group
+Missing audiogroup for sound: 'story_snd' - setting to default audio group
+Missing audiogroup for sound: 'score_snd' - setting to default audio group
+Missing audiogroup for sound: 'katana_snd' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'sound/sound_volume.gml'
+Added compatibility script '__global_object_depths.gml'
